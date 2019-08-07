@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ssm_student_demo.iml" filepath="$PROJECT_DIR$/ssm_student_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm_student_demo_assembing/ssm_student_demo_assembing.iml" filepath="$PROJECT_DIR$/ssm_student_demo_assembing/ssm_student_demo_assembing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm_student_demo_common/ssm_student_demo_common.iml" filepath="$PROJECT_DIR$/ssm_student_demo_common/ssm_student_demo_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm_student_demo_control/ssm_student_demo_control.iml" filepath="$PROJECT_DIR$/ssm_student_demo_control/ssm_student_demo_control.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm_student_demo_error/ssm_student_demo_error.iml" filepath="$PROJECT_DIR$/ssm_student_demo_error/ssm_student_demo_error.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm_student_demo_intercept/ssm_student_demo_intercept.iml" filepath="$PROJECT_DIR$/ssm_student_demo_intercept/ssm_student_demo_intercept.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm_student_demo_mapper/ssm_student_demo_mapper.iml" filepath="$PROJECT_DIR$/ssm_student_demo_mapper/ssm_student_demo_mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm_student_demo_model/ssm_student_demo_model.iml" filepath="$PROJECT_DIR$/ssm_student_demo_model/ssm_student_demo_model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm_student_demo_pojo/ssm_student_demo_pojo.iml" filepath="$PROJECT_DIR$/ssm_student_demo_pojo/ssm_student_demo_pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm_student_demo_service/ssm_student_demo_service.iml" filepath="$PROJECT_DIR$/ssm_student_demo_service/ssm_student_demo_service.iml" />
+    </modules>
+  </component>
+</project>

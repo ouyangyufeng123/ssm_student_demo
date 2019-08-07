@@ -1,0 +1,10 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/ssm_demo?useUnicode=true&characterEncoding=UTF-8&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC
+    username: root
+    password: 1234
+
+#文件存储目录
+resourceRootPath: E:/images/
+#文件访问地址
+resourceRootUri: http://127.0.0.1:9000/

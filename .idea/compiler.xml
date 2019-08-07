@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ssm_student_demo_assembing" />
+        <module name="ssm_student_demo_common" />
+        <module name="ssm_student_demo_control" />
+        <module name="ssm_student_demo_error" />
+        <module name="ssm_student_demo_intercept" />
+        <module name="ssm_student_demo_mapper" />
+        <module name="ssm_student_demo_model" />
+        <module name="ssm_student_demo_pojo" />
+        <module name="ssm_student_demo_service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ssm_student_demo" target="1.8" />
+      <module name="ssm_student_demo_assembing" target="1.8" />
+      <module name="ssm_student_demo_common" target="1.8" />
+      <module name="ssm_student_demo_control" target="1.8" />
+      <module name="ssm_student_demo_error" target="1.8" />
+      <module name="ssm_student_demo_intercept" target="1.8" />
+      <module name="ssm_student_demo_mapper" target="1.8" />
+      <module name="ssm_student_demo_model" target="1.8" />
+      <module name="ssm_student_demo_pojo" target="1.8" />
+      <module name="ssm_student_demo_service" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="ssm_student_demo" options="-parameters" />
+      <module name="ssm_student_demo_assembing" options="-parameters" />
+      <module name="ssm_student_demo_common" options="-parameters" />
+      <module name="ssm_student_demo_control" options="-parameters" />
+      <module name="ssm_student_demo_error" options="-parameters" />
+      <module name="ssm_student_demo_intercept" options="-parameters" />
+      <module name="ssm_student_demo_mapper" options="-parameters" />
+      <module name="ssm_student_demo_model" options="-parameters" />
+      <module name="ssm_student_demo_pojo" options="-parameters" />
+      <module name="ssm_student_demo_service" options="-parameters" />
+    </option>
+  </component>
+</project>
